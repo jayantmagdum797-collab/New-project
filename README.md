@@ -1,7 +1,6 @@
 # New-project
-## shubham
-## prathamesh 
-## jayant
-##parshwa
-##bhavare
+## shubham khavare
+## prathamesh shingate
+## jayant magdum
+## parshwa bhavare
 
